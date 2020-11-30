@@ -33,7 +33,8 @@ Run this line inside the folder of the step 1
 Change the file [ormconfig.json](https://raw.githubusercontent.com/moacirandretti/authcomjwt/master/ormconfig.json "ormconfig.json") replacing with your PostgreSQL Server informations.
 
 ## ✅ Step 4
-Send me [moacir.andretti@gmail.com](mail:to "e-mail moacir.andretti@gmail.com") to tell what what did you think about the project. 🚀
+Send me and e-mail: [moacir.andretti@gmail.com](mail:to "e-mail moacir.andretti@gmail.com") 
+to tell what what did you think about the project. 🚀
 
 Thanks! 
 ### 😅
