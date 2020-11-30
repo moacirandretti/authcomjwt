@@ -26,7 +26,8 @@ Run inside your desired folder:
 `git clone https://github.com/moacirandretti/authcomjwt.git
 `
 ## ✅ Step 2:
-Run this line inside the folder of the step 1
+Run this line inside the folder of the step 1:
+
  `yarn`
 
 ## ✅ Step 3
